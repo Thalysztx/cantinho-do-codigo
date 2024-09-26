@@ -10,7 +10,7 @@ public class lista {
         return primeiro;
     }
 
-    //ta vasilha
+    //ta vasilha = ta vazia
     public boolean estaVazia() {
 
         //return primeiro == null;
