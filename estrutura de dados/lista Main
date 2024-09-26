@@ -1,0 +1,17 @@
+public class Main{
+
+    public static void main(String[] args){
+
+
+        lista lista = new lista();
+        System.out.println(lista.estaVazia());
+        lista.inserePrimeiro(100);
+        lista.inserePrimeiro(20);
+        lista.insereUltimo(300);
+
+        lista.mostrar();
+        System.out.println("Escolhido foi O: " + lista.getPrimeiro().getProximo().getInfo());
+        System.out.println(lista.buscar(100));
+        lista.mostrar();
+    }
+}
