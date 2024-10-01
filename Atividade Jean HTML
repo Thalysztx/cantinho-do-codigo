@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"  type="text/css" media="screen" href="chola.css">
+    <title>Planos Disponíveis</title>
+</head>
+<body>
+    <h1><b>Planos Disponíveis</b></h1>
+    <h3><b>Escolha o mais ideal para sua hospedagem</b></h3>
+    <div class="box">
+        <div class="type">
+      
+            <div class="title"><h2>Básica</h2></div>
+            <div class="price">R$26,90<span>/mês</span></div>
+            <p class="memory"><b>memória</b></p>
+            <p class="aproximando">256 MB</p>
+            <ul class="list-melhorias">
+                <li><small>Transferências ilimitadas</small></li>
+                <li><small>10GB de espaço</small></li>
+                <li><small>10 contas de e-mail</small></li>
+                <li><small>Construtor de sites</small></li>
+                <li><small>Hospeda 1 site</small></li>
+            </ul>
+            <div class="button-box">
+                <button><b>COMPRAR</b></button>
+                <button2 class="cart-button">
+                    <img src="https://i.im.ge/2024/09/30/kDXO4a.imagem-2024-09-29-195530250.png" alt="cart">
+                </button2>
+            </div>
+        </div>
+        <div class="type">
+            <div class="title"><h2>Profissional</h2></div>
+            <div class="price">R$39,90<span>/mês</span></div>
+            <p class="memory"><b>memória</b></p>
+            <p class="aproximando">512 MB</p>
+            <ul class="list-melhorias">
+                <li><small>Transferências ilimitadas</small></li>
+                <li><small>20GB de espaço</small></li>
+                <li><small>25 contas de e-mail</small></li>
+                <li><small>Construtor de sites</small></li>
+                <li><small>Hospeda até 2 site</small></li>
+            </ul>
+            <div class="button-box">
+                <button><b>COMPRAR</b></button>
+                <button2 class="cart-button">
+                    <img src="https://i.im.ge/2024/09/30/kDXO4a.imagem-2024-09-29-195530250.png" alt="cart">
+                </button2>
+            </div>
+        </div>
+        <div class="type">
+            <div class="title"><h2>Plus</h2></div>
+            <div class="price">R$79,90<span>/mês</span></div>
+            <p class="memory"><b>memória</b></p>
+            <p class="aproximando">768 MB</p>
+            <ul class="list-melhorias">
+                <li><small>Transferências ilimitadas</small></li>
+                <li><small>30GB de espaço</small></li>
+                <li><small>50 contas de e-mail</small></li>
+                <li><small>Construtor de sites</small></li>
+                <li><small>Hospeda até 5 site</small></li>
+            </ul>
+            <div class="button-box">
+                <button><b>COMPRAR</b></button>
+                <button2 class="cart-button">
+                    <img src="https://i.im.ge/2024/09/30/kDXO4a.imagem-2024-09-29-195530250.png" alt="cart">
+                </button2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
